@@ -39,7 +39,6 @@ class Home extends React.Component{
                             <div class="rounded-circle">
                                 <img src={kodai}
                                 class="rounded-circle mx auto d-block"
-                                
                                 width="200px"
                                 height="150px"/>
                                 </div>
@@ -51,7 +50,6 @@ class Home extends React.Component{
                                 <p class="h5">One of the most beautiful hill stations in Tamilnadu, Kodai is called the Princess of Hill Stations. It is in Dindigul 7000ft high up on the upper Palani hills. It is still untouched, relatively crowd-free and home to the beautiful Kodai Lake, Pillar Rocks, Bryant Park, Coaker’s Walk, Bear Shola Falls, and Silver Cascade.
                                 </p>
                             </div>
-                            
                         </div>
                     </div>
                     <br/>
@@ -73,7 +71,6 @@ class Home extends React.Component{
                                 <p class="h5">Ooty is called the ‘Queen of hill stations.’ It lies in the Nilgiris at an altitude of 7440ft above sea level. A favorite summer retreat and weekend getaway, Ooty offers lush green valleys, panoramic views, beautiful lakes and other attractions including a toy train from Mettupalayam to Ooty a UNESCO World Heritage Site.
                                 </p>
                             </div>
-                            
                         </div>
                     </div>
                     <br/>
@@ -83,7 +80,6 @@ class Home extends React.Component{
                             <div class="rounded-circle">
                                 <img src={coonar}
                                 class="rounded-circle mx auto d-block"
-                                
                                 width="200px"
                                 height="150px"/>
                                 </div>
@@ -95,8 +91,7 @@ class Home extends React.Component{
                                 <p class="h5">If you are Coonoor and don’t visit the Nilgiri tea estate, then you are missing out on a great experience. Situated 6000ft above sea level, this gorgeous hill station in Tamilnadu is known for its lush greenery, deep valleys, magnificent gorges, and waterfalls. The Sim’s park, Lambs Rock, St. Catherine Falls, Dolphins Nose and Law’s falls are some must-visits. Don’t miss a trek into the Nilgiri Hills.
                                 </p>
                             </div>
-                            
-                        </div>
+                    </div>
                     </div>
                     <br/>
                     <div class="container">

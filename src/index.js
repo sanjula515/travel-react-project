@@ -12,11 +12,14 @@ import ReactDOM from 'react-dom';
 
   } from "react-router-dom";
   import Home from "./Home";
+  import Form from "./Contact";
+  
   const routing =(
     <Router>
      <div>
       <Switch>
           <Route exact path="/" component={Home}/>
+          <Route exact path="/Contact" component={Form}/>
         </Switch>
     </div>
     </Router>
